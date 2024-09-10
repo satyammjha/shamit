@@ -1,0 +1,45 @@
+.table-header {
+    padding: 10px;
+    background-color:#007BFF;
+    border: 1px solid #ccc;
+    text-align: left;
+    color: white;
+}
+
+.table-cell {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-top: 10%;
+}
+
+.btn-view {
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    width: max-content;
+    margin-top: 10px;
+}
+
+.btn-edit {
+    padding: 5px 10px;
+    background-color: #008cba;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    width: max-content;
+    margin-top: 10px;
+}
+
+.btn-view:hover {
+    background-color: #45a049;
+}
+
+.btn-edit:hover {
+    background-color: #007bb5;
+}
